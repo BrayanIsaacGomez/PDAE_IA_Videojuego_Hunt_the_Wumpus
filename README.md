@@ -59,10 +59,6 @@ El diseño del software se basa en los siguientes componentes principales:
 * **`Mapa`**: Gestiona la colección de objetos `Habitacion` y las conexiones entre ellas, formando el laberinto.
 * **`Explorador`**: Es el agente inteligente. Mantiene su estado actual (posición, flechas), interactúa con el `Mapa` y contiene la lógica para los algoritmos de búsqueda (DFS y A\*).
 
-## 👤 Autor
-
-* **[Brayan Isaac Gómez Velásquez]** - [Enlace a mi GitHub](https://github.com/BrayanIsaacGomez)
-
 ## 🎯 Demo del Juego
 
 ¡Explora el proceso de desarrollo y las demostraciones de este proyecto en la playlist oficial de YouTube!
