@@ -61,7 +61,7 @@ El diseño del software se basa en los siguientes componentes principales:
 
 ## 👤 Autor
 
-* **[Brayan Isaac Gómez Velásquez]** - [brayan.gomez@galileo.edu](brayan.gomez@galileo.edu) - [Enlace a mi GitHub](https://github.com/BrayanIsaacGomez)
+* **[Brayan Isaac Gómez Velásquez]** - [Enlace a mi GitHub](https://github.com/BrayanIsaacGomez)
 
 ## 🎯 Demo del Juego
 
