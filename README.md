@@ -6,9 +6,6 @@ Este repositorio contiene una implementación del clásico juego "Hunt the Wumpu
 
 Se implementó el uso de algoritmos de búsqueda informada y no informada para la exploración y navegación de un agente inteligente en un entorno desconocido y peligroso.
 
-## 🎯 Demo del Juego
-
-
 ## ✨ Características Principales
 
 * **Diseño Orientado a Objetos:** El código está estructurado en clases (`Mapa`, `Explorador`, `Habitacion`) para una mayor claridad y mantenibilidad.
@@ -66,8 +63,7 @@ El diseño del software se basa en los siguientes componentes principales:
 
 * **[Brayan Isaac Gómez Velásquez]** - [brayan.gomez@galileo.edu](brayan.gomez@galileo.edu) - [Enlace a mi GitHub](https://github.com/BrayanIsaacGomez)
 
-
-## Playlist de YouTube
+## 🎯 Demo del Juego
 
 ¡Explora el proceso de desarrollo y las demostraciones de este proyecto en la playlist oficial de YouTube!
 
